@@ -1,5 +1,5 @@
 require 'spec_helper'
 
-describe NeighborhoodController do
+describe NeighborhoodsController do
 
 end
